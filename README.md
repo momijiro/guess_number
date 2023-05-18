@@ -1,5 +1,5 @@
 # guess_number
-車のナンバープレートに書いてある４つの数字を用いて、10を作るゲームを実装したものです。　　
+車のナンバープレートに書いてある４つの数字を用いて、10を作るゲームを実装したものです。  
 streamlitによりアプリ化したので、[このURL](https://momijiro-guess-number-guess-numbers-d091bj.streamlit.app/)から試すことができます。
 
 欠陥点
